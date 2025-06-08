@@ -1,0 +1,25 @@
+h1{
+color:green;
+font-family:cursive;
+}
+
+p{
+color: black;
+font-family:fantasy;
+}
+ul{
+    list-style-image: url('images/pointer-icon.png');
+}
+ol{
+    list-style-type: upper-roman;
+}
+#Menu-Bar a{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 5px;
+}
+#Menu-Bar a:hover{
+background-color: aqua;
+color: #ffffff;
+}
